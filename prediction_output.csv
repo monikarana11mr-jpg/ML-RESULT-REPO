@@ -1,0 +1,3 @@
+"Assets","Liabilities","NetIncomeLoss","OperatingIncomeLoss","cpi","confidence(false)","confidence(true)","prediction(label)"
+3.2984E11,2.6556E11,2.1744E10,2.4126E10,273.003,0.08898305084745763,0.9110169491525424,"true"
+3.5E11,3.0E11,1.0E9,5.0E8,300.0,0.69424266881894,0.30575733118106,"false"
